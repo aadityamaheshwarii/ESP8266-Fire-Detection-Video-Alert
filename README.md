@@ -289,10 +289,9 @@ You can easily extend this project with:
 - Home Assistant
 - Blynk Dashboard
 - Firebase Database
-
-```
-
+- 
 ---
+
 
 ## 📷 PICTURE
 
